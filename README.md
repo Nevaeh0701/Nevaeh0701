@@ -8,7 +8,7 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
 
 ### Database & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)

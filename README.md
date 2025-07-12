@@ -1,4 +1,4 @@
-# 👋 Backend Developer 오은수입니다.
+👋 Backend Developer 오은수입니다.
 
 
 ## 💻 Skills

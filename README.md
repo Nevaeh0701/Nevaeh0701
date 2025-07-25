@@ -2,9 +2,8 @@
 
 ## 📊 GitHub Stats
 
-[![Eunsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevaeh0701&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Eunsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevaeh0701&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevaeh0701&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 Projects

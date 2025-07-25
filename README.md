@@ -2,15 +2,14 @@
 
 ## 💻 Projects
 
----
 
 ### 🎨 [Pick카소](https://github.com/ssu-capstone-jdt/pick-kasso-server)  
 > 그림 실력 향상을 위한 커리큘럼 제공 웹 서비스  
 
 - 사용자 인증, 커리큘럼 관리, 학습 관리 등 핵심 기능 설계
 - RESTful API 및 DB 스키마 모델링
-- AWS S3를 이용한 이미지 업로드 및 관리 기능 구현
-
+- AWS S3를 이용한 이미지 업로드 및 관리 기능 구현 
+---
 ### 🌍 [Itinera](https://github.com/ssu-capstone-Itinera/server)  
 > 여행지 추천 및 여행 일정 커스터마이즈 웹 서비스  
 
@@ -21,22 +20,14 @@
 - OAuth 2.0 및 자체 회원가입 로그인 기능 (Spring Security)
 - GitHub Actions 기반의 CI/CD 자동화 구축
 - EC2 인스턴스를 활용한 배포 및 서버 관리
-
 ---
-
 ### 📚 [BookStar](https://github.com/ssu-capstone-bookstar/server)  
 > 사용자의 독서 활동을 관리하고 공유하며, 맞춤형 도서를 추천받을 수 있는 웹 서비스  
-> **2024.09 ~ 진행 중**
 
 - Kakao OAuth 2.0 인증 시스템 설계 및 구현
 - 알라딘 Open API를 통한 도서 검색 기능 구현
 - 팔로우/팔로잉 기반 SNS 기능 구현
-
 ---
-
-
-## 📚 
-
 
 ## 🛠️ Skills
 

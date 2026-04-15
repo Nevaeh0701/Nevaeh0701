@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 - **숭실대학교(Soongsil University)** 소프트웨어학부 학사 졸업
-- **정보보호(Information Security)** 전공
+- **정보보호(Information Security)** 융합 전공
 
 ## 💻 Projects
 

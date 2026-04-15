@@ -1,12 +1,12 @@
 👋 Backend Developer 오은수입니다.
 
-## 📊 GitHub Stats
-
-[![Eunsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevaeh0701&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+## 🎓 Education
+- **숭실대학교(Soongsil University)** 소프트웨어학부 학사 졸업
+- **정보보호(Information Security)** 전공
 
 ## 💻 Projects
 
-### 🔐 [NTRU+](https://github.com/ntruplus/ntruplus) 
+ 🔐 [NTRU+](https://github.com/ntruplus/ntruplus) 
 > 한국 차세대 양자내성암호(KpqC) 공모전 2라운드 진출 알고리즘  최적화
 
 - **KPQC(Korean Post-Quantum Cryptography)** 공모전 참여 프로젝트
@@ -14,14 +14,14 @@
   - 독립적인 144개의 `fqinv()`(역원 연산) 호출을 단 1회의 역원 연산과 곱셈 연산으로 대체하여 병목 구간 최적화
 - 다항식 연산 및 암호학적 핵심 로직의 성능 벤치마킹 및 C/C++ 기반 최적화 구현
 ---
-### 🎨 [Pick카소](https://github.com/ssu-capstone-jdt/pick-kasso-server)  
+🎨 [Pick카소](https://github.com/ssu-capstone-jdt/pick-kasso-server)  
 > 그림 실력 향상을 위한 커리큘럼 제공 웹 서비스  
 
 - 사용자 인증, 커리큘럼 관리, 학습 관리 등 핵심 기능 설계
 - RESTful API 및 DB 스키마 모델링
 - AWS S3를 이용한 이미지 업로드 및 관리 기능 구현 
 ---
-### 🌍 [Itinera](https://github.com/ssu-capstone-Itinera/server)  
+🌍 [Itinera](https://github.com/ssu-capstone-Itinera/server)  
 > 여행지 추천 및 여행 일정 커스터마이즈 웹 서비스  
 
 - 데이터 파이프라인 설계 및 구현
@@ -32,7 +32,7 @@
 - GitHub Actions 기반의 CI/CD 자동화 구축
 - EC2 인스턴스를 활용한 배포 및 서버 관리
 ---
-### 📚 [BookStar](https://github.com/ssu-capstone-bookstar/server)  
+ 📚 [BookStar](https://github.com/ssu-capstone-bookstar/server)  
 > 사용자의 독서 활동을 관리하고 공유하며, 맞춤형 도서를 추천받을 수 있는 웹 서비스  
 
 - Kakao OAuth 2.0 인증 시스템 설계 및 구현

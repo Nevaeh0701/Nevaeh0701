@@ -4,11 +4,16 @@
 
 [![Eunsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevaeh0701&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 ## 💻 Projects
 
+### 🔐 [NTRU+](https://github.com/ntruplus/ntruplus) 
+> 한국 차세대 양자내성암호(KpqC) 공모전 2라운드 진출 알고리즘  최적화
 
+- **KPQC(Korean Post-Quantum Cryptography)** 공모전 참여 프로젝트
+- **Montgomery Batch Inversion** 기법을 적용하여 연산 효율 극대화
+  - 독립적인 144개의 `fqinv()`(역원 연산) 호출을 단 1회의 역원 연산과 곱셈 연산으로 대체하여 병목 구간 최적화
+- 다항식 연산 및 암호학적 핵심 로직의 성능 벤치마킹 및 C/C++ 기반 최적화 구현
+---
 ### 🎨 [Pick카소](https://github.com/ssu-capstone-jdt/pick-kasso-server)  
 > 그림 실력 향상을 위한 커리큘럼 제공 웹 서비스  
 
@@ -39,23 +44,23 @@
 
 #### Programming Language
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 #### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
+
 #### Database & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonaws&logoColor=white)
+
 #### Infra / DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 #### Search Engine
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-
-
-
-
-

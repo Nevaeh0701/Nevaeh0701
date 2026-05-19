@@ -7,12 +7,12 @@
 ## 💻 Projects
 
  🔐 [NTRU+](https://github.com/ntruplus/ntruplus) 
-> 한국 차세대 양자내성암호(KpqC) 공모전 2라운드 진출 알고리즘  최적화
+> 한국 차세대 양자내성암호(KpqC) 공모전  진출 알고리즘  최적화
 
 - **KPQC(Korean Post-Quantum Cryptography)** 공모전 참여 프로젝트
 - **Montgomery Batch Inversion** 기법을 적용하여 연산 효율 극대화
   - 독립적인 144개의 `fqinv()`(역원 연산) 호출을 단 1회의 역원 연산과 곱셈 연산으로 대체하여 병목 구간 최적화
-- 다항식 연산 및 암호학적 핵심 로직의 성능 벤치마킹 및 C/C++ 기반 최적화 구현
+
 ---
 🎨 [Pick카소](https://github.com/ssu-capstone-jdt/pick-kasso-server)  
 > 그림 실력 향상을 위한 커리큘럼 제공 웹 서비스  
